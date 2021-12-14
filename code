@@ -1,0 +1,9 @@
+
+
+
+
+
+The resampling voxel spacing is 0.5×0.5×1.25 mm. 
+We resampled the registered CT and MR images to 128×128×80 voxels by nearest-neighbor interpolation to save computation time. 
+This is described in the methods and materials, Image acquisition, and pre-processing section (line 147-150 on page 6).  
+We attached the original CT and the CT after nearest-neighbor interpolation to compare the qualities. No, images are not cropped.
